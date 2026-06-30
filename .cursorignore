@@ -1,0 +1,20 @@
+﻿# 题目 / 训练资料（不参与 Cursor 索引）
+题目.md
+题目/
+迭代.md
+迭代/
+代码生成.md
+代码生成/
+对话/
+
+# 依赖与构建产物
+node_modules/
+dist/
+backend/vendor/
+backend/storage/
+backend/bootstrap/cache/
+
+# 环境与日志
+.env
+.env.*
+*.log
